@@ -1,0 +1,8 @@
+SINASC.ipynb
+data/fato/*
+.gitignore
+__pycache__
+data/fato/sinasc_binary_python_sorted.csv
+data/fato/sinasc_binary_python_sorted_amostra.csv
+/*.csv*
+/*.arff
