@@ -1,0 +1,18 @@
+{
+
+"LOCNASC" : {"1":"Hospital","2":"Outros estabelecimentos de saúde","3":"Domicílio","4":"Outros","5":"Aldeia Indígena"},
+"ESTCIVMAE" : {"1":"Solteira","2":"Casada","3":"Viúva","4":"Separada judicialmente/divorciada","5":"União estável","9":"Ignorada"},
+"TPMETESTIM" : {"1":"Exame físico","2":"Outro método","9":"Ignorado"},
+"TPAPRESENT" : {"1":"Cefálico","2":"Pélvica ou podálica","3":"Transversa","9":"Ignorado"},
+"STTRABPART" : {"1":"Sim","2":"Não","3":"Não se aplica","9":"Ignorado"},
+"STCESPARTO" : {"1":"Sim","2":"Não","3":"Não se aplica","9":"Ignorado"},
+"TPNASCASSI" : {"1":"Médico","2":"Enfermagem ou Obstetriz","3":"Parteira","4":"Outros","9":"Ignorado"},
+"TPFUNCRESP" : {"1":"Médico","2":"Enfermeiro","3":"Parteira","4":"Funcionário do cartório","5":"Outros"},
+"PARIDADE" : {"1":"Multípara","0": "Nulípara"},
+"GESTACAO" : {"0":"Não Prematuro","1":"Prematuro"},
+"CONSULTAS" : {"1":"Nenhuma", "2":"de 1 a 3", "3":"de 4 a 6", "4":"7 e mais", "9":"Ignorado"},
+"PARTO" : {"1":"Vaginal", "2":"Cesário", "9":"Ignorado"},
+"GRAVIDEZ" : {"1":"Única", "2":"Dupla", "3":"Tripla ou mais", "9":"Ignorado"},
+"ESCMAE2010" : {"0":"Sem escolaridade","1":"Fundamental I (1ª a 4ª série)","2":"Fundamental II (5ª a 8ª série)","3":"Médio (antigo 2º Grau)","4":"Superior incompleto","5":"Superior completo","9":"Ignorado"}
+
+}
