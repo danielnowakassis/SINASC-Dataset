@@ -6,3 +6,5 @@ data/fato/sinasc_binary_python_sorted.csv
 data/fato/sinasc_binary_python_sorted_amostra.csv
 /*.csv*
 /*.arff
+sinasc_checkpoint.csv
+.conda
